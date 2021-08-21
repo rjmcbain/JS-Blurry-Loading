@@ -1,4 +1,4 @@
-# JS-Blurry-Loading
+# Blurry Loading
 
 View app: https://rjmcbain.github.io/JS-Blurry-Loading/
 
@@ -9,5 +9,5 @@ View app: https://rjmcbain.github.io/JS-Blurry-Loading/
 HTML  |  CSS  |  JavaScript
 
 ### About
-Simple app that fade in background image as page loads
+Simple app that fades in background image as page loads
 
